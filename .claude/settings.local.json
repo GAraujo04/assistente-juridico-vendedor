@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m venv venv)",
+      "Bash(pkill -f \"streamlit run app.py\")"
+    ]
+  }
+}
